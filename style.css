@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    font-family: "Snell Roundhand", cursive;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(162, 1, 114); 
+}
+
+nav {
+    text-align:center; 
+    background-color: rgb(255, 162, 221);
+    list-style: none;
+    
+}
+
+.navlinks {
+    text-align: center; 
+    width: 500px; 
+    margin: 0 auto;
+    padding: 10px 20px 30px 40px;
+}
+
+
